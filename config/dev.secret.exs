@@ -2,5 +2,5 @@ use Mix.Config
 
 config :proactive_api, ProactiveAPI.Repo,
   adapter: Ecto.Adapters.Postgres,
-  username: "USERNAME_HERE",
-  password: "PASSWORD_HERE"
+  username: "psql_dev",
+  password: "psql_dev1"
